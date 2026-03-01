@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3426248656",
+    "project_id": "mr-delivery-9321b",
+    "storage_bucket": "mr-delivery-9321b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3426248656:android:90e71e98bc9a029e0efbd5",
+        "android_client_info": {
+          "package_name": "com.mrdelivery.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC03tEi5mA-bqYXrV_7m4p56Sk5vvvXFZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
